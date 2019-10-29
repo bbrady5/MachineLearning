@@ -1,0 +1,378 @@
+Microsoft Windows [Version 10.0.17763.805]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Users\Brady>C:\Users\Brady\AppData\Local\Programs\Python\Python37-32\python.exe C:\Users\Brady\eclipse-workspace\ML_Miniproject_1\MLP_Classifier.py
+Importing data...
+(150000, 32)
+(150000, 32)
+(50000, 32)
+(50000, 32)
+------------------
+Model for Bit 31
+Classes: [0 1]
+Confusion Matrix:
+ [[49645    23]
+ [   99   233]]
+TN:  49645 FP:  23 FN:  99 TP:  233
+Accuracy :  99.756 %
+Precision :  0.91015625
+Recall :  0.7018072289156626
+------------------
+Model for Bit 30
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[47883    56]
+ [  137  1924]]
+TN:  47883 FP:  56 FN:  137 TP:  1924
+Accuracy :  99.614 %
+Precision :  0.9717171717171718
+Recall :  0.9335274138767589
+------------------
+Model for Bit 29
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[46055   210]
+ [  254  3481]]
+TN:  46055 FP:  210 FN:  254 TP:  3481
+Accuracy :  99.072 %
+Precision :  0.9431048496342455
+Recall :  0.9319946452476573
+------------------
+Model for Bit 28
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[45339   316]
+ [  541  3804]]
+TN:  45339 FP:  316 FN:  541 TP:  3804
+Accuracy :  98.286 %
+Precision :  0.9233009708737864
+Recall :  0.8754890678941312
+------------------
+Model for Bit 27
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[42294   938]
+ [ 1195  5573]]
+TN:  42294 FP:  938 FN:  1195 TP:  5573
+Accuracy :  95.734 %
+Precision :  0.855936108124712
+Recall :  0.8234338061465721
+------------------
+Model for Bit 26
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[42946   635]
+ [ 1494  4925]]
+TN:  42946 FP:  635 FN:  1494 TP:  4925
+Accuracy :  95.742 %
+Precision :  0.8857913669064749
+Recall :  0.767253466272005
+------------------
+Model for Bit 25
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[38863  1710]
+ [ 2772  6655]]
+TN:  38863 FP:  1710 FN:  2772 TP:  6655
+Accuracy :  91.036 %
+Precision :  0.7955768081291094
+Recall :  0.705950991831972
+------------------
+Model for Bit 24
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[38880  2649]
+ [ 3391  5080]]
+TN:  38880 FP:  2649 FN:  3391 TP:  5080
+Accuracy :  87.92 %
+Precision :  0.65726484668133
+Recall :  0.5996930704757407
+------------------
+Model for Bit 23
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[36150  2083]
+ [ 3697  8070]]
+TN:  36150 FP:  2083 FN:  3697 TP:  8070
+Accuracy :  88.44 %
+Precision :  0.7948389638530483
+Recall :  0.6858162658281635
+------------------
+Model for Bit 22
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[36215  3615]
+ [ 3488  6682]]
+TN:  36215 FP:  3615 FN:  3488 TP:  6682
+Accuracy :  85.794 %
+Precision :  0.6489268719044382
+Recall :  0.6570304818092428
+------------------
+Model for Bit 21
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[33759  2679]
+ [ 3960  9602]]
+TN:  33759 FP:  2679 FN:  3960 TP:  9602
+Accuracy :  86.722 %
+Precision :  0.7818581548733816
+Recall :  0.7080076684854741
+------------------
+Model for Bit 20
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[33389  4867]
+ [ 3091  8653]]
+TN:  33389 FP:  4867 FN:  3091 TP:  8653
+Accuracy :  84.084 %
+Precision :  0.6400147928994083
+Recall :  0.7368017711171662
+------------------
+Model for Bit 19
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[32356  2580]
+ [ 4870 10194]]
+TN:  32356 FP:  2580 FN:  4870 TP:  10194
+Accuracy :  85.1 %
+Precision :  0.7980272428370127
+Recall :  0.676712692511949
+------------------
+Model for Bit 18
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[31688  5183]
+ [ 3396  9733]]
+TN:  31688 FP:  5183 FN:  3396 TP:  9733
+Accuracy :  82.842 %
+Precision :  0.6525207830517565
+Recall :  0.7413359737984614
+------------------
+Model for Bit 17
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[30330  3314]
+ [ 4717 11639]]
+TN:  30330 FP:  3314 FN:  4717 TP:  11639
+Accuracy :  83.938 %
+Precision :  0.7783722329967231
+Recall :  0.7116043042308633
+------------------
+Model for Bit 16
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[30435  5718]
+ [ 3330 10517]]
+TN:  30435 FP:  5718 FN:  3330 TP:  10517
+Accuracy :  81.904 %
+Precision :  0.647797967354481
+Recall :  0.7595146963241135
+------------------
+Model for Bit 15
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[29409  3341]
+ [ 3941 13309]]
+TN:  29409 FP:  3341 FN:  3941 TP:  13309
+Accuracy :  85.436 %
+Precision :  0.7993393393393393
+Recall :  0.771536231884058
+------------------
+Model for Bit 14
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[32113  5413]
+ [ 2852  9622]]
+TN:  32113 FP:  5413 FN:  2852 TP:  9622
+Accuracy :  83.47 %
+Precision :  0.6399733954107083
+Recall :  0.7713644380311047
+------------------
+Model for Bit 13
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[31476  2536]
+ [ 3810 12178]]
+TN:  31476 FP:  2536 FN:  3810 TP:  12178
+Accuracy :  87.30799999999999 %
+Precision :  0.8276471387793938
+Recall :  0.7616962722041531
+------------------
+Model for Bit 12
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[35127  3982]
+ [ 3617  7274]]
+TN:  35127 FP:  3982 FN:  3617 TP:  7274
+Accuracy :  84.80199999999999 %
+Precision :  0.6462331201137171
+Recall :  0.66789091910752
+------------------
+Model for Bit 11
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[32987  2551]
+ [ 2684 11778]]
+TN:  32987 FP:  2551 FN:  2684 TP:  11778
+Accuracy :  89.53 %
+Precision :  0.8219694326191639
+Recall :  0.8144101783985618
+------------------
+Model for Bit 10
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[37481  3409]
+ [ 3154  5956]]
+TN:  37481 FP:  3409 FN:  3154 TP:  5956
+Accuracy :  86.874 %
+Precision :  0.6359850507207688
+Recall :  0.6537870472008781
+------------------
+Model for Bit 9
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[35240  1951]
+ [ 2328 10481]]
+TN:  35240 FP:  1951 FN:  2328 TP:  10481
+Accuracy :  91.44200000000001 %
+Precision :  0.8430662805662805
+Recall :  0.8182527910063236
+------------------
+Model for Bit 8
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[40487  2071]
+ [ 1963  5479]]
+TN:  40487 FP:  2071 FN:  1963 TP:  5479
+Accuracy :  91.932 %
+Precision :  0.7256953642384106
+Recall :  0.736226820747111
+------------------
+Model for Bit 7
+C:\Users\Brady\AppData\Roaming\Python\Python37\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Classes: [0 1]
+Confusion Matrix:
+ [[37896   925]
+ [  988 10191]]
+TN:  37896 FP:  925 FN:  988 TP:  10191
+Accuracy :  96.174 %
+Precision :  0.9167866138898885
+Recall :  0.9116200017890688
+------------------
+Model for Bit 6
+Classes: [0 1]
+Confusion Matrix:
+ [[44179     0]
+ [   11  5810]]
+TN:  44179 FP:  0 FN:  11 TP:  5810
+Accuracy :  99.978 %
+Precision :  1.0
+Recall :  0.9981102903281223
+------------------
+Model for Bit 5
+Classes: [0 1]
+Confusion Matrix:
+ [[40892     1]
+ [    0  9107]]
+TN:  40892 FP:  1 FN:  0 TP:  9107
+Accuracy :  99.998 %
+Precision :  0.9998902064119456
+Recall :  1.0
+------------------
+Model for Bit 4
+Classes: [0 1]
+Confusion Matrix:
+ [[45528     0]
+ [    0  4472]]
+TN:  45528 FP:  0 FN:  0 TP:  4472
+Accuracy :  100.0 %
+Precision :  1.0
+Recall :  1.0
+------------------
+Model for Bit 3
+Classes: [0 1]
+Confusion Matrix:
+ [[43419     0]
+ [    0  6581]]
+TN:  43419 FP:  0 FN:  0 TP:  6581
+Accuracy :  100.0 %
+Precision :  1.0
+Recall :  1.0
+------------------
+Model for Bit 2
+Classes: [0 1]
+Confusion Matrix:
+ [[46887     0]
+ [    0  3113]]
+TN:  46887 FP:  0 FN:  0 TP:  3113
+Accuracy :  100.0 %
+Precision :  1.0
+Recall :  1.0
+------------------
+Model for Bit 1
+Classes: [0 1]
+Confusion Matrix:
+ [[46887     0]
+ [    0  3113]]
+TN:  46887 FP:  0 FN:  0 TP:  3113
+Accuracy :  100.0 %
+Precision :  1.0
+Recall :  1.0
+------------------
+Model for Bit 0
+Classes: [0]
+Only one class determined for the training set - Therefore predict all output for bit 0 to be [0]
+------------------
+Mean Accuracy for all Bits:  91.70735483870968 %
+Mean Precision for all Bits:  0.8239287523847321
+Mean Recall for all Bits:  0.8038989850149301
+Running time of program:  7909.92 seconds (131.83 minutes)
+
+C:\Users\Brady>
